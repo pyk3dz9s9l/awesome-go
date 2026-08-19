@@ -1,4 +1,5 @@
 # Awesome Go
+<!-- automated quality check verification marker -->
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
